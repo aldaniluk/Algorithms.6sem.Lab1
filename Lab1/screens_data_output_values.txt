@@ -1,0 +1,2 @@
+Max price: 10, 
+Screens numbers: 6 12 

@@ -1,0 +1,2 @@
+Max weight: 14, 
+Vertices numbers: 2 5 
